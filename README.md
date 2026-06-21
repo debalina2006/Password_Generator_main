@@ -92,7 +92,7 @@ These functions and properties are integral to the functionality of the Password
 
 ## Credits
 
-This Password Generator project was created by Gaurav Kumar. The project was developed after watching a tutorial video by LOVE BABBAR in Dot Batch. The following technologies and resources were used in the development of this project:
+This Password Generator project was created by Debalina Roy. The following technologies and resources were used in the development of this project:
 
 - HTML
 - CSS
@@ -100,6 +100,6 @@ This Password Generator project was created by Gaurav Kumar. The project was dev
 
 ---
 
-Feel free to replace "Gaurav Kumar" with your actual name, and adjust any other details as needed.
+Feel free to replace "Debalina Roy" with your actual name, and adjust any other details as needed.
 
 
